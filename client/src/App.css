@@ -1,0 +1,6 @@
+@import "~antd/dist/antd.css";
+
+.Toastify__toast--default {
+  background: rgb(205,226,138);
+  color: rgb(165,133,212);
+}
